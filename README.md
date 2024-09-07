@@ -64,7 +64,3 @@ streamlit run Home.py
 ```
 
 This will open the webapp in your default browser
-
-# WebApp is live!! 🎉
-
-https://sumittttttt-crypto-price-prediction-home-yrf27b.streamlit.app/
